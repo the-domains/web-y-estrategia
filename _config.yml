@@ -1,4 +1,3 @@
-layout_spectrum: 0.028744873590767384
 typography_spectrum: 0.3137219075579196
 color:
   brandStrength: 0.3921900235582143
@@ -6,9 +5,11 @@ color:
   saturation: 0.49620592780411243
   rhythmicContrast: 0.5282872673124075
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.028744873590767384
 name: Web y estrategia
+title: Estrategias viejas para canales no tan viejos
